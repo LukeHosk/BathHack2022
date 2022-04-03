@@ -19,5 +19,4 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category = "IRLInteraction")
 	static void shootPlayer();
-	
 };
